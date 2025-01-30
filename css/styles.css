@@ -10554,3 +10554,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.list-dice{
+  padding-left: 42px;
+  list-style: disc;
+}
