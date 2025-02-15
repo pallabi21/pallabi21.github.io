@@ -10559,3 +10559,11 @@ section.resume-section .resume-section-content {
   padding-left: 42px;
   list-style: disc;
 }
+
+/* .project-image-section{
+  border: 1px solid var(--secondary);
+} */
+.project-image-section img{
+  width: 100%;
+  object-fit: contain;
+}
